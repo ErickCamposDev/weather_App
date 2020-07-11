@@ -26,5 +26,7 @@ Developed application to test knowledge in React Native in a job selection. A gr
 + Run `react-native run-android`
 
 # Screens 
-![Welcome](httpsuser-images.githubusercontent.com3435828787234033-81069800-c3a3-11ea-811e-ef866d9c4e3c.png)
+![welcome](https://user-images.githubusercontent.com/34358287/87234221-4f8ecc00-c3a5-11ea-977b-cf6133b46273.png)
 ![Home](https://user-images.githubusercontent.com/34358287/87234060-b7441780-c3a3-11ea-93a0-cd726c42e0bd.png)
+
+
